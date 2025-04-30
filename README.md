@@ -1,4 +1,4 @@
-# wildcard11
+# record11
 
 **Proof of Concept: Apple Activation Record Generation via 11-Digit Serial Numbers**
 
