@@ -6,6 +6,10 @@ This repository explores the concept of generating Apple activation records usin
 
 Apple's system currently accepts a wide range of SN formats, including non-standard combinations.
 
+###  Update: 28th August 2025
+
+Apple patched the ticket generation method for all devices including iPhone 5S - 16 Pro Max.
+
 ---
 
 ## Usage
@@ -28,7 +32,7 @@ In our POC we use this weakness to generate activation records for all those SNs
 
 ---
 
-## 🔍 Current Findings (New Information)
+## 🔍 Current Findings
 
 ### ✅ Valid Serial Number Formats
 
